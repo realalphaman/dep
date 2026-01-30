@@ -4,6 +4,7 @@
     { "name": "monolog/monolog" }
   ],
   "packages-dev": [
-    { "name": "phpunit/phpunit" }
+    { "name": "phpunit/phpunit" },
+    { "name": "phpunisdfsfdt/phpunit" }
   ]
 }
