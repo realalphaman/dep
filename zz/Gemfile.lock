@@ -1,0 +1,5 @@
+GEM
+  specs:
+    rails (7.0.8)
+    puma (6.4.0)
+    activesupport (7.0.8)
