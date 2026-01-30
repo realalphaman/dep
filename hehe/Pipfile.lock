@@ -1,0 +1,9 @@
+{
+  "default": {
+    "requests": {},
+    "urllib3": {}
+  },
+  "develop": {
+    "pytest": {}
+  }
+}
