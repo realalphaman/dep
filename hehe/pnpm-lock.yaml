@@ -1,0 +1,5 @@
+packages:
+  /express/4.18.2:
+    resolution: {}
+  /lodash/4.17.21:
+    resolution: {}
