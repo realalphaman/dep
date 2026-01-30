@@ -1,0 +1,9 @@
+{
+  "packages": [
+    { "name": "symfony/http-foundation" },
+    { "name": "monolog/monolog" }
+  ],
+  "packages-dev": [
+    { "name": "phpunit/phpunit" }
+  ]
+}
