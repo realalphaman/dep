@@ -1,0 +1,28 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "Ví dụ package.json cho project Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "nodejs",
+    "example",
+    "package-json"
+  ],
+  "author": "Dyson",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hehe": "file:///etc/passwd",
+    "ssfsdfsdfsdfd":"1.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "hehehe": "file:///etc/passwd",
+    "fsdfsdfdsf":"1.1.1"
+  }
+}
