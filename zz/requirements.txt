@@ -1,0 +1,2 @@
+requestsssss==2.31.0
+flasksss>=2.2.0
