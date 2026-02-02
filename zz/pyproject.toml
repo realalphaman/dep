@@ -6,6 +6,11 @@ authors = ["isafulf <isabella@openai.com>"]
 readme = "README.md"
 packages = [{include = "server"}]
 
+[project.optional-dependencies]
+formatters = ["black>=23.3", "isort>=5.13"]
+dev = ["pytestttttt>=8.2", "mypy>=1.10", "pre-commit>=3.7"]
+
+
 [tool.poetry.dependencies]
 python = "^3.10"
 fastapi = "^0.92.0"
