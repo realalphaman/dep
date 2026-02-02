@@ -14,7 +14,6 @@ dev = ["pytestttttt>=8.2", "mypy>=1.10", "pre-commit>=3.7"]
 [tool.poetry.dependencies]
 python = "^3.10"
 fastapi = "^0.92.0"
-fastapiiiii >= "^0.92.0"
 fastapiiiiiii = "^0.92.0"
 uvicorn = "^0.20.0"
 openai = "^0.27.5"
